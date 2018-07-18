@@ -1,4 +1,4 @@
-# zuyin-mobile-web-app
+# Zuyin Mobile Web App
 A single page, responsive application. Zuyin ('footprint' in mandarin) is an application that offers people an interactive map to find points of interest near by, like: events, tastings, animal spotting, and other interests. Giving people a chance to discover things to see and do. I lead the team of 4 that built this application,a proof of concept, was built during a 24 hour Paperclip x BitwiseHacks Hackathon, and won our team first place.
 
 
